@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: |cff8ee6deSenMinimap|r
+## Notes: Square minimap with a dark theme, configurable status dock and custom tracking menu.
+## Author: Yurri Gaming
+## Version: 0.1.0
+## SavedVariables: SenMapDB
+senminimap.lua
